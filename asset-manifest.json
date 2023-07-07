@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cart_programmer_akshay/static/css/main.eb6954ce.css",
+    "main.js": "/cart_programmer_akshay/static/js/main.652d0dfc.js",
+    "index.html": "/cart_programmer_akshay/index.html",
+    "main.eb6954ce.css.map": "/cart_programmer_akshay/static/css/main.eb6954ce.css.map",
+    "main.652d0dfc.js.map": "/cart_programmer_akshay/static/js/main.652d0dfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb6954ce.css",
+    "static/js/main.652d0dfc.js"
+  ]
+}
